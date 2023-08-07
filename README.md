@@ -1,5 +1,5 @@
 # ejemplo Repositorio
 
-##Pasos para clonar el repositorio
+## Pasos para clonar el repositorio
 
-##Autor
+## Autor
